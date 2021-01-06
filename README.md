@@ -19,4 +19,4 @@ This is some information about me:
 - [x] Make money in stocks.
 ```
 [Link](https://anvu1997.github.io/Lab1/)
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&psig=AOvVaw35ZJkPD8QtFrov7EC65FBs&ust=1609982225015000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICF16eRhu4CFQAAAAAdAAAAABAD)
+![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
