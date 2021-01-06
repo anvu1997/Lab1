@@ -22,7 +22,7 @@ This is some information about me:
 
 [Link for a section in github about section link](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
 
-[Config of the theme](./123)
+[Relative link](./123)
 
 ### Extra information:
 ```
