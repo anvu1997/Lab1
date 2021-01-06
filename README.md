@@ -11,7 +11,7 @@ This is some information about me:
 3. Sleeping :sleeping:
 4. Playing video games 
 
-**My to do list for this year**
+**My to do list for this ~~year~~:**
 - [ ] Pass all my classes.
 - [ ] Visit my home country.
 - [ ] Travel to other countries nearby.
@@ -20,7 +20,7 @@ This is some information about me:
 ![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
 [Link for the picture](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
 
-# Extra information:
+### Extra information:
 ```
 Selling a 3070 FE for $600.
 ```
