@@ -1,6 +1,5 @@
 ## Welcome to An Vu's GitHub Pages
 This is some information about me:
-```
 **Something about _me_:**
 -I'm a senior at UCSD and hopefully this is my last year to graduate.
 -I don't have any internship experience yet hopefully I can find one this summer during the pandemic.
@@ -17,6 +16,6 @@ This is some information about me:
 - [ ] Visit my home country.
 - [ ] Travel to other countries nearby.
 - [x] Make money in stocks.
-```
-[Link](https://anvu1997.github.io/Lab1/)
+
+[Link](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
 ![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
