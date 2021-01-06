@@ -1,9 +1,9 @@
-## Welcome to An Vu's GitHub Pages
+## Welcome to `An Vu's` GitHub Pages
 This is some information about me:
 **Something about _me_:**
 - I'm a senior at UCSD and hopefully this is my last year to graduate.
 - I don't have any internship experience yet hopefully I can find one this summer during the pandemic.
-  - Or you can help me out if you know some place have open position for software engineer. 
+  - > Or you can help me out if you know some place have open position for software engineer. 
 
 **Things I like to do during free time:**
 1. Trading stocks
