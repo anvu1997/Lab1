@@ -20,6 +20,8 @@ This is some information about me:
 ![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
 [Link for the picture](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*)
 
+[Link for a section in github about section link](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
+[Config of the theme](_config.yml)
 ### Extra information:
 ```
 Selling a 3070 FE for $600.
