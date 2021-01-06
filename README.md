@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/anvu1997/Lab1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Welcome to An Vu's GitHub Pages
+This is some information about me:
 ```
+**Something about _me_:**
+-I'm a senior at UCSD and hopefully this is my last year to graduate.
+-I don't have any internship experience yet hopefully I can find one this summer during the pandemic.
+  - Or you can help me out if you know some place have open position for software engineer.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Things I like to do during free time:**
+1. Trading stocks
+2. Coding
+3. Sleeping
+4. Playing video games.
 
-### Jekyll Themes
+**My to do list for this year**
+[] Pass all my classes.
+[] Visit my home country.
+[] Travel to other countries nearby.
+[x] Make money in stocks.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anvu1997/Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](https://anvu1997.github.io/Lab1/)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&psig=AOvVaw35ZJkPD8QtFrov7EC65FBs&ust=1609982225015000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICF16eRhu4CFQAAAAAdAAAAABAD)
+```
