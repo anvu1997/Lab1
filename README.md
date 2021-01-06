@@ -13,11 +13,10 @@ This is some information about me:
 4. Playing video games.
 
 **My to do list for this year**
-[] Pass all my classes.
-[] Visit my home country.
-[] Travel to other countries nearby.
-[x] Make money in stocks.
-
+- [ ] Pass all my classes.
+- [ ] Visit my home country.
+- [ ] Travel to other countries nearby.
+- [x] Make money in stocks.
+```
 [Link](https://anvu1997.github.io/Lab1/)
 ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&psig=AOvVaw35ZJkPD8QtFrov7EC65FBs&ust=1609982225015000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICF16eRhu4CFQAAAAAdAAAAABAD)
-```
